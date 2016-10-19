@@ -1,0 +1,29 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+.title{
+  position: absolute;
+  left: -20000px;
+}
+
+.body{
+background-color: gray;
+background-image: "lace.png";
+background-position:left;
+background-repeat: repeat-x;
+}
+
+.link{
+  color: #A4A400;
+  text-decoration: underline;
+}
